@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MazzMS
-- 👀 I’m interested in FullStack and Blockchain
-- 🌱 I’m currently learning Basics
+- 👀 I’m primary interested in FullStack.
+- 🌱 I’m currently learning Java (including Spring, Hibernate, etc.) and the basics of frontend.
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me: maximo.a.olivera@gmail.com
 
